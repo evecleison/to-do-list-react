@@ -4,6 +4,8 @@
 
 A maior parte do código utiliza nomes de variáveis, funções, etc., em inglês, enquanto os comentários do código e o conteúdo textual da interface e das páginas estão em português brasileiro.
 
+👉  [Veja o projeto em funcionamento](https://evecleison.github.io/to-do-list-react/)
+
 ## Descrição do projeto
 
 Este projeto é uma aplicação web de uma lista de tarefas desenvolvida com React, utilizando o `localStorage` para persistência dos dados localmente. Além disso, é utilizado o Vite como bundler para carregamento rápido e eficiente.
