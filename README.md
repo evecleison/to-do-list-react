@@ -17,7 +17,7 @@ Este projeto é uma aplicação web de uma lista de tarefas desenvolvida com Rea
 - 📆 Datas exibidas no formato brasileiro (DD/MM/AAAA).
 - 🎯 Interface limpa e responsivo com CSS puro.
 
-## 🚀 Como executar o projeto
+## 🚀 Como instalar e executar o projeto
 
 1. Clone este repositório:
     ```bash
